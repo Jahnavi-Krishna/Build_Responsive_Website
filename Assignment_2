@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog</title>
+    <style>
+      #h{
+          text-align: center;
+          color:#FF4848;
+      }
+      h3{
+          text-align: center;
+          color: #DF711B;
+      }
+      #quote{
+          color: #FFD371;
+          text-align: center;
+          padding: 50px 50px;
+          background-image: url(./images/camera.jpg);
+      }
+      .body{
+          text-align: left;
+          padding : 1px 500px;
+      }
+      img{
+          width: 50%;
+          height: 50%;
+          padding : 1px 500px;
+      }
+      #i{
+          width: 100%;
+          height: 50%;
+          padding : 1px 10px;
+      }
+      </style>
+</head>
+<body>
+    <h1 id="h">TIME</h1>
+    <h3>How we manage our time is how we manage our life</h3>   
+    <p id="quote">“How we spend our days is, of course, how we spend our lives. What we do with this hour, and that one, is what we are doing. A schedule defends from chaos and whim. It is a net for catching days. It is a scaffolding on which a worker can stand and labor with both hands at sections of time. A schedule is a mock-up of reason and order—willed, faked, and so brought into being; it is a peace and a haven set into the wreck of time; it is a lifeboat on which you find yourself, decades later, still living.”
+
+        ― Annie Dillard, The Writing Life</p>
+    <h2 class="body">Time Management And Its Importance</h2> 
+    <p class="body">
+        The ability to use one’s time effectively or productively, especially at work.
+        <br><br>Whether at work or in our personal lives, we should never downplay the importance of effective time management.
+        <br><br>Think about it for a second. 
+        <br><br>How many times have you said to yourself (or someone else): “I want to do this, but I simply don’t have the time.” 
+        <br><br>Now ask yourself: Could I achieve these things if I made better use of my time? Because that’s exactly what time management is all about. 
+        <br><br>It’s about making better use of our time.
+        <br><br>There are many time management strategies at our disposal. But first, it’s important that we understand the tangible benefits of time management, so we don’t slip back into old habits.
+    </p>
+    <img src="images/time.jpg">
+    <h2 class="body">Skills required for time management</h2>
+    <p class="body">
+        Effective time management begins and ends with a set of skills. The following skills encompass everything from planning your projects to prioritizing your workflow, and will help you become more effective at managing time.
+        <br><br>    
+        <b>Organization</b>
+        Before you do anything, take a moment to reflect on the way you currently do things. What’s your general approach? Are you as organized as you could be? Are you using the tools that are available to help you work smarter? 
+        <br><br>
+        <b>Prioritization</b>
+        As we’ve already touched on with the 4 Ds of time management, prioritizing your workflow is not just something that’s nice to have–it’s a must-have. This will help you when you need to focus on the things that matter and to put off the things that don’t. 
+        <br><br>
+        <b>Goal-setting</b>
+        Goal-setting is crucial in any project. Put your stated goals through the SMART framework. Ask yourself: are my goals Specific, Measurable, Attainable, Realistic and Time-bound? If they’re not, consider rethinking them. It’s better to overthink than to underdeliver.
+        <br><br>
+        <b>Planning</b>
+        It’s often said that failing to plan is planning to fail–and in most cases, this is true. When you’re working from a solid plan, you’re thinking ahead, preparing for any number of eventualities, and creating contingency plans. You’re less likely to be caught off guard, and better equipped to cope with potential hiccups.
+        <br><br>
+        <b>Delegation</b>
+        At times our workload can be so heavy that it’s not humanly possible to do it all by ourselves. In such testing times, we can share the burden by delegating tasks that are less important, or better suited to others. Don’t be afraid to ask a coworker to help you out. Just make sure you return the favor!
+        <br><br>
+        <b>Managing stress</b>
+        When the heat is on, it’s easy to get caught up and let your emotions get the better of you. Try not to let this happen. Take time to do nothing. Unwind. Your brain is like a sponge. It can only hold so much information at any given time. If you try to do too much, you’ll burn out. Everyone needs time off to stay on top of their game. 
+    </p>
+    <img id="i" src="images/tq.jpg">
+    
+</body>
+</html>
